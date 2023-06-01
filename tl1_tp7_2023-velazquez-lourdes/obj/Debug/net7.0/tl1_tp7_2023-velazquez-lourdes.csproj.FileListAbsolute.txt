@@ -1,0 +1,15 @@
+C:\TALLER1\tl1_tp7_2023-velazquez-lourdes\tl1_tp7_2023-velazquez-lourdes\bin\Debug\net7.0\tl1_tp7_2023-velazquez-lourdes.exe
+C:\TALLER1\tl1_tp7_2023-velazquez-lourdes\tl1_tp7_2023-velazquez-lourdes\bin\Debug\net7.0\tl1_tp7_2023-velazquez-lourdes.deps.json
+C:\TALLER1\tl1_tp7_2023-velazquez-lourdes\tl1_tp7_2023-velazquez-lourdes\bin\Debug\net7.0\tl1_tp7_2023-velazquez-lourdes.runtimeconfig.json
+C:\TALLER1\tl1_tp7_2023-velazquez-lourdes\tl1_tp7_2023-velazquez-lourdes\bin\Debug\net7.0\tl1_tp7_2023-velazquez-lourdes.dll
+C:\TALLER1\tl1_tp7_2023-velazquez-lourdes\tl1_tp7_2023-velazquez-lourdes\bin\Debug\net7.0\tl1_tp7_2023-velazquez-lourdes.pdb
+C:\TALLER1\tl1_tp7_2023-velazquez-lourdes\tl1_tp7_2023-velazquez-lourdes\obj\Debug\net7.0\tl1_tp7_2023-velazquez-lourdes.csproj.AssemblyReference.cache
+C:\TALLER1\tl1_tp7_2023-velazquez-lourdes\tl1_tp7_2023-velazquez-lourdes\obj\Debug\net7.0\tl1_tp7_2023-velazquez-lourdes.GeneratedMSBuildEditorConfig.editorconfig
+C:\TALLER1\tl1_tp7_2023-velazquez-lourdes\tl1_tp7_2023-velazquez-lourdes\obj\Debug\net7.0\tl1_tp7_2023-velazquez-lourdes.AssemblyInfoInputs.cache
+C:\TALLER1\tl1_tp7_2023-velazquez-lourdes\tl1_tp7_2023-velazquez-lourdes\obj\Debug\net7.0\tl1_tp7_2023-velazquez-lourdes.AssemblyInfo.cs
+C:\TALLER1\tl1_tp7_2023-velazquez-lourdes\tl1_tp7_2023-velazquez-lourdes\obj\Debug\net7.0\tl1_tp7_2023-velazquez-lourdes.csproj.CoreCompileInputs.cache
+C:\TALLER1\tl1_tp7_2023-velazquez-lourdes\tl1_tp7_2023-velazquez-lourdes\obj\Debug\net7.0\tl1_tp7_2023-velazquez-lourdes.dll
+C:\TALLER1\tl1_tp7_2023-velazquez-lourdes\tl1_tp7_2023-velazquez-lourdes\obj\Debug\net7.0\refint\tl1_tp7_2023-velazquez-lourdes.dll
+C:\TALLER1\tl1_tp7_2023-velazquez-lourdes\tl1_tp7_2023-velazquez-lourdes\obj\Debug\net7.0\tl1_tp7_2023-velazquez-lourdes.pdb
+C:\TALLER1\tl1_tp7_2023-velazquez-lourdes\tl1_tp7_2023-velazquez-lourdes\obj\Debug\net7.0\tl1_tp7_2023-velazquez-lourdes.genruntimeconfig.cache
+C:\TALLER1\tl1_tp7_2023-velazquez-lourdes\tl1_tp7_2023-velazquez-lourdes\obj\Debug\net7.0\ref\tl1_tp7_2023-velazquez-lourdes.dll
